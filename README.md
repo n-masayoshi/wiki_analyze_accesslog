@@ -18,5 +18,4 @@
 
 - データは2022年12月1日のもの
   - https://dumps.wikimedia.org/other/pageviews/2022/2022-12/
-# wiki_analyze_accesslog
-# wiki_analyze_accesslog
+
